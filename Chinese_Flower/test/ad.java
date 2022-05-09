@@ -6,7 +6,7 @@ public class ad {
     static final String DB_URL = "jdbc:mysql://localhost:3306/data"; 
     // 数据库的用户名与密码，需要根据自己的设置
     static final String USER = "root";
-    static final String PASS = "200199";
+    static final String PASS = "******";
  
     public static void main(String[] args) {
         Connection conn = null;
