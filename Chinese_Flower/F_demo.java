@@ -12,7 +12,7 @@ public class F_demo extends JFrame {
     public static final String DB_URL = "jdbc:mysql://47.113.190.60:3306/data"; 
     // 数据库的用户名与密码，需要根据自己的设置
     public static final String USER = "data";
-    public static final String PASS = "200199";
+    public static final String PASS = "******";
 
     public static Connection conn = null;
     // public static Statement stmt = null;
